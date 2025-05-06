@@ -1,6 +1,6 @@
 # Who am I?
 
-Hi, I am Lomeliz (Ángel Lomelí)ss
+Hi, I am Lomeliz (Ángel Lomelí)
 
 **Software Developer | Innovación + Estrategia + Tecnología**
 
