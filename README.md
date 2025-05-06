@@ -1,44 +1,33 @@
-**¿Who am i ?**
+# Who am I?
 
-Hi i am Lomeliz ( Angel Lomeli )
+Hi, I am Lomeliz (Ángel Lomelí)
 
-Software Developer | Innovación + Estrategia + Tecnología
+**Software Developer | Innovación + Estrategia + Tecnología**
 
-**📍 Located in**
+📍 **Located in**  
+*The Pearl of Guadalajara, MX*
 
-The Pearl of Guadalajara, MX
+## 🏗️ Main languages
 
-**Main languages:**  
-  - 🐍 Python (Django, FastAPI)  
-  - ☕ JavaScript/TypeScript (React, Node.js)  
-  - SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
+🐍 **Python** (Django, FastAPI)  
+☕ **JavaScript/TypeScript** (React, Node.js)  
+🗄️ **SQL** (PostgreSQL, MySQL), **NoSQL** (MongoDB)
 
-**About me**
-- 🧠 Aprendiz perpetuo: Buscando la verdad aunque duela.
-- 🔍 Visionario práctico :Creo en el futuro, pero camino con pies de plomo.
-- 💻 Full-stack en alma y mente: Backend sólido, frontend consciente.
-- 📚 Constructor de un libro vital: Rescatando las ideas que merecen sobrevivir.
-- 👀 I’m interested :in Industry 4.0 and digitalization
-- 🌱 I’m currently learning: systems and automotive engineering
-- 💞️ I’m looking to collaborate with :The state government and local businesses
-- 📜 I'm interested in: philosophy and people like Marcus Aurelius, Socrates and Diogenes
+## About me
 
+🧠 **Perpetual learner:** Seeking truth, even when it hurts.  
+🔍 **Practical visionary:** I believe in the future, but walk with cautious feet.  
+💻 **Full-stack in soul and mind:** Solid backend, thoughtful frontend.  
+📚 **Building a vital book:** Preserving the ideas that deserve to survive.  
+👀 **Interested in:** Industry 4.0 and digitalization.  
+🌱 **Currently learning:** Systems and automotive engineering.  
+💞️ **Looking to collaborate with:** State government and local businesses.  
+📜 **Admirer of philosophy and thinkers** like Marcus Aurelius, Socrates, and Diogenes.
 
+## 📫 Professional contact
 
+📧 Email: current.jalisco.management@gmail.com
 
+---
 
-
-
-
-
-
-
-
-
-**📫 Contacto profesional**
-
-- 📧 Email: current.jalisco.management@gmail.com
-
-
-
-If the country is one, why do I see so many flags?
+**If the country is one, why do I see so many flags?**
