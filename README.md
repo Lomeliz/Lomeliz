@@ -9,8 +9,8 @@ Hi, I am Lomeliz (Ángel Lomelí)
 
 ## 🏗️ Main languages
 
-🐍 **Python** (Django, FastAPI)
-☕ **JavaScript/TypeScript** (React, Node.js)  
+🐍 **Python** (Django, FastAPI)   
+ ☕ **JavaScript/TypeScript** (React, Node.js)  
 🗄️ **SQL** (PostgreSQL, MySQL), **NoSQL** (MongoDB)
 
 ## About me
